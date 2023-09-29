@@ -1,1 +1,0 @@
-conda activate /home/shlok/Dev/Baseline/Multimodal_sarcasm_detection/BERT-base/envs
