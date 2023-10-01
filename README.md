@@ -30,4 +30,5 @@ Now, you can go to notebooks and use the virtual environment as a kernel
 
 ## Datasets
 
-1. [`MUStARD`](https://github.com/soujanyaporia/MUStARD/tree/master)
+1. [`MUStARD`](https://github.com/soujanyaporia/MUStARD/tree/master) - For classification task, it has 345 cases of sarcasm and 345 cases of not sarcasm  
+2. 
