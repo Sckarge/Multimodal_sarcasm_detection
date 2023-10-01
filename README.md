@@ -10,7 +10,7 @@ source ~/anaconda3/etc/profile.d/conda.sh
 ## Steps to run a baseline
 
 Each baseline model has its own jupyter notebook but before accessing that, we need to create a python virtual environment to use as a kernel.  
-To do this, we you can run the [`env_create.sh`][BERT-base/env_create.sh] script in each model directory
+To do this, we you can run the [`env_create.sh`](BERT-base/env_create.sh) script in each model directory
 
 For example, to make an environment with appropriate requirements installed for BERT
 
